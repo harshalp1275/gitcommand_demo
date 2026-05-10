@@ -1,5 +1,7 @@
 # gitcommand\_demo
 
+Practically learning
+
 create this repo to learn git command demo
 
 This repository is created for learning:
