@@ -1,6 +1,7 @@
 # gitcommand\_demo
 
 Practically learning
+this is main branch
 
 create this repo to learn git command demo
 
